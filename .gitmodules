@@ -7,3 +7,6 @@
 [submodule "Data-Structure-Exercises"]
 	path = Data-Structure-Exercises
 	url = git@github-sagar:sagarsanjaysutar/Data-Structure-Exercises
+[submodule "Effective-CPP-Exercises"]
+	path = Effective-CPP-Exercises
+	url = git@github-sagar:sagarsanjaysutar/Effective-CPP-Exercises
