@@ -1,27 +1,27 @@
 [submodule "CSS-Exercises"]
 	path = CSS-Exercises
-	url = git@github-sagar:sagarsanjaysutar/CSS-Exercises
+	url = https://github.com/sagarsanjaysutar/CSS-Exercises
 [submodule "React-Exercises"]
 	path = React-Exercises
-	url = git@github-sagar:sagarsanjaysutar/React-Exercises
+	url = https://github.com/sagarsanjaysutar/React-Exercises
 [submodule "Data-Structure-Exercises"]
 	path = Data-Structure-Exercises
-	url = git@github-sagar:sagarsanjaysutar/Data-Structure-Exercises
+	url = https://github.com/sagarsanjaysutar/Data-Structure-Exercises
 [submodule "Effective-CPP-Exercises"]
 	path = Effective-CPP-Exercises
-	url = git@github-sagar:sagarsanjaysutar/Effective-CPP-Exercises
+	url = https://github.com/sagarsanjaysutar/Effective-CPP-Exercises
 [submodule "Design-Patterns-Exercises"]
 	path = Design-Patterns-Exercises
-	url = git@github-sagar:sagarsanjaysutar/Design-Patterns-Exercises
+	url = https://github.com/sagarsanjaysutar/Design-Patterns-Exercises
 [submodule "Computer-Vision-CPP-Exercises"]
 	path = Computer-Vision-CPP-Exercises
-	url = git@github-sagar:sagarsanjaysutar/Computer-Vision-CPP-Exercises
+	url = https://github.com/sagarsanjaysutar/Computer-Vision-CPP-Exercises
 [submodule "Computer-Vision-Python-Exercises"]
 	path = Computer-Vision-Python-Exercises
-	url = git@github-sagar:sagarsanjaysutar/Computer-Vision-Python-Exercises
+	url = https://github.com/sagarsanjaysutar/Computer-Vision-Python-Exercises
 [submodule "GStreamer-Exercises"]
 	path = GStreamer-Exercises
-	url = git@github-sagar:sagarsanjaysutar/GStreamer-Exercises
+	url = https://github.com/sagarsanjaysutar/GStreamer-Exercises
 [submodule "Android-Exercises"]
 	path = Android-Exercises
-	url = git@github-sagar:sagarsanjaysutar/Android-Exercises
+	url = https://github.com/sagarsanjaysutar/Android-Exercises
