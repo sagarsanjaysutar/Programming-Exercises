@@ -22,3 +22,6 @@
 [submodule "GStreamer-Exercises"]
 	path = GStreamer-Exercises
 	url = git@github-sagar:sagarsanjaysutar/GStreamer-Exercises
+[submodule "Android-Exercises"]
+	path = Android-Exercises
+	url = git@github-sagar:sagarsanjaysutar/Android-Exercises
