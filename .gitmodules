@@ -19,3 +19,6 @@
 [submodule "Computer-Vision-Python-Exercises"]
 	path = Computer-Vision-Python-Exercises
 	url = git@github-sagar:sagarsanjaysutar/Computer-Vision-Python-Exercises
+[submodule "GStreamer-Exercises"]
+	path = GStreamer-Exercises
+	url = git@github-sagar:sagarsanjaysutar/GStreamer-Exercises
