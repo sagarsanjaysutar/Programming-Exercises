@@ -10,3 +10,9 @@
 [submodule "Effective-CPP-Exercises"]
 	path = Effective-CPP-Exercises
 	url = git@github-sagar:sagarsanjaysutar/Effective-CPP-Exercises
+[submodule "Design-Patterns-Exercises"]
+	path = Design-Patterns-Exercises
+	url = git@github-sagar:sagarsanjaysutar/Design-Patterns-Exercises
+[submodule "Computer-Vision-CPP-Exercises"]
+	path = Computer-Vision-CPP-Exercises
+	url = git@github-sagar:sagarsanjaysutar/Computer-Vision-CPP-Exercises
