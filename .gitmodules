@@ -16,3 +16,6 @@
 [submodule "Computer-Vision-CPP-Exercises"]
 	path = Computer-Vision-CPP-Exercises
 	url = git@github-sagar:sagarsanjaysutar/Computer-Vision-CPP-Exercises
+[submodule "Computer-Vision-Python-Exercises"]
+	path = Computer-Vision-Python-Exercises
+	url = git@github-sagar:sagarsanjaysutar/Computer-Vision-Python-Exercises
