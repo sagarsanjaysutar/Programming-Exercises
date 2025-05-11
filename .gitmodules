@@ -1,3 +1,6 @@
 [submodule "CSS-Exercises"]
 	path = CSS-Exercises
 	url = git@github-sagar:sagarsanjaysutar/CSS-Exercises
+[submodule "React-Exercises"]
+	path = React-Exercises
+	url = git@github-sagar:sagarsanjaysutar/React-Exercises
